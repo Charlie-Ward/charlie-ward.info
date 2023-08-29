@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#382D06",
+        "titleBar.activeBackground": "#4E3E08",
+        "titleBar.activeForeground": "#FDFAEE"
+    },
+    "git.ignoreLimitWarning": true
+}
